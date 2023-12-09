@@ -5,7 +5,7 @@
 
 ## 欢迎来到我的GitHub空间 :wave: 
 
-## Welcome to My GitHub Space:wave:
+## Welcome to My GitHub Space :wave:
 
 我是吕俊树，一位对硬件和信号处理技术充满热情的开发者。
 我是一名大三学生，目前就读于中南大学自动化学院电子信息工程系。
