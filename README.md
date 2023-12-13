@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);小树同学祝您今天愉快!&center=true&size=27">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=printf(%22Hello%2C%20World!%22);&center=true&size=27">
  </a>
 </h1>
 
