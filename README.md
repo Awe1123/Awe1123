@@ -21,7 +21,7 @@ Let's embark on this fascinating coding journey together!
 
 🌱 我目前正在专注于PCB、FPGA方面的学习。
 
-- I am currently focusing on PCB and image signal processing.
+- I am currently focusing on PCB and FPGA.
 
 💡 我喜欢探索新技术，构建有趣的项目，同时不断学习和成长。
 
