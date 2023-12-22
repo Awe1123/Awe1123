@@ -19,7 +19,7 @@ Let's embark on this fascinating coding journey together!
 
 ### 关于我 About Me
 
-🌱 我目前正在专注于PCB和图像信号处理方面的学习。
+🌱 我目前正在专注于PCB、FPGA方面的学习。
 
 - I am currently focusing on PCB and image signal processing.
 
