@@ -31,7 +31,7 @@ Let's embark on this fascinating coding journey together!
 
 💻 我主要的编程语言：
 
-- C、Python、Verilog
+- Python、Verilog、C、MATLAB
 
 🌐 我主要的技术栈：
 
